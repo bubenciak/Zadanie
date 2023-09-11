@@ -1,1 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Moja miłość do zwierząt</title>
+</head>
+<body>
+    <header>
+        <h1>Moja miłość do zwierząt</h1>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#o-mnie">O mnie</a></li>
+            <li><a href="#moje-zwierzaki">Moje zwierzaki</a></li>
+            <li><a href="#ulubione-zwierzeta">Ulubione zwierzęta</a></li>
+            <li><a href="#kontakt">Kontakt</a></li>
+        </ul>
+    </nav>
+
+    <section id="o-mnie">
+        <h2>O mnie</h2>
+        <p>Cześć! Nazywam się Bartuś i jestem ogromnym miłośnikiem zwierząt. Chciałbym podzielić się z Tobą moją pasją i miłością do naszych pięknych przyjaciół.</p>
+    </section>
+
+    <section id="moje-zwierzaki">
+        <h2>Moje zwierzaki</h2>
+        <p>Tutaj możesz poznać moje ukochane zwierzęta i dowiedzieć się więcej o nich. Mam 34 wspaniałych zwierzaków, w tym Psa, Aligatora, Konia, itp.</p>
+    </section>
+
+    <section id="ulubione-zwierzeta">
+        <h2>Ulubione zwierzęta</h2>
+        <p>Moje ulubione zwierzęta to Psy. Uwielbiam je za są słodkie.</p>
+    </section>
+
+    <section id="kontakt">
+        <h2>Kontakt</h2>
+        <p>Jeśli chcesz podzielić się swoją miłością do zwierząt lub porozmawiać o nich, śmiało napisz do mnie na adres Kochampiseki@gmail.com.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Moja Miłość do Zwierząt</p>
+    </footer>
+</body>
+</html>
 
